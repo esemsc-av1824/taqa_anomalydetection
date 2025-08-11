@@ -1,0 +1,22 @@
+{
+  "Battery-Voltage": {
+    "mad": 0.0084381103515625,
+    "cutoff": 0.03375244140625
+  },
+  "Upstream-Pressure": {
+    "mad": 2.3722848892211914,
+    "cutoff": 9.489139556884766
+  },
+  "Downstream-Pressure": {
+    "mad": 1.6075630187988281,
+    "cutoff": 6.4302520751953125
+  },
+  "Upstream-Temperature": {
+    "mad": 0.011494636535644531,
+    "cutoff": 0.045978546142578125
+  },
+  "Downstream-Temperature": {
+    "mad": 0.011046409606933594,
+    "cutoff": 0.044185638427734375
+  }
+}

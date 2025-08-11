@@ -1,0 +1,18 @@
+# Ignore all CSVs and Parquet files
+*.csv
+*.parquet
+
+# Ignore raw data folder entirely
+raw/
+data/
+clean/
+
+# Ignore any large binary files
+*.pkl
+*.npy
+*.onnx
+
+# Ignore any virtual environment folders
+.venv/
+.env/
+__pycache__/

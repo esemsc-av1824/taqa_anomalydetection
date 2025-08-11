@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-07-15T15:27:52Z",
+  "files": {
+    "choke_position.onnx": "10a3a427d542",
+    "delta_temp_open.onnx": "9aba9262f7b3",
+    "delta_temp_shut.onnx": "a1ce2dd40bcb",
+    "full_vectors_if.onnx": "ccfda0b10a8f",
+    "pressure_pair_open.onnx": "99e72bb6ebea",
+    "pressure_pair_shut.onnx": "45452877c908",
+    "residual_battery.onnx": "16bf4729791a",
+    "residual_downP.onnx": "be8ea0f7ea28",
+    "residual_downT.onnx": "61b934e5e5a6",
+    "residual_upP.onnx": "46c7e9cb386a",
+    "residual_upT.onnx": "1cb6d43cb3e4",
+    "residual_mad.json": "a405e94f65e3"
+  }
+}
