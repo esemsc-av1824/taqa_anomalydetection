@@ -1,0 +1,18 @@
+{
+  "method": "robust",
+  "center": [
+    100.62159729003906,
+    2.0,
+    15.825810432434082
+  ],
+  "scale": [
+    101.162109375,
+    3.0,
+    2.14523983001709
+  ],
+  "feature_names": [
+    "Choke-Position",
+    "ToolStateNum",
+    "Downstream-Temperature"
+  ]
+}

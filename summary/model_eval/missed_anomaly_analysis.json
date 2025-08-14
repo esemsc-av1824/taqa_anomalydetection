@@ -1,0 +1,98 @@
+{
+  "total_anomalies": 15,
+  "missed_count": 9,
+  "miss_rate_pct": 60.0,
+  "detection_by_type": {
+    "Count": {
+      "extreme_high_choke": 2,
+      "high_temperature": 1,
+      "low_temperature": 4,
+      "negative_choke": 3,
+      "rare_tool_state": 5
+    },
+    "Baseline_Detected": {
+      "extreme_high_choke": 0,
+      "high_temperature": 0,
+      "low_temperature": 0,
+      "negative_choke": 0,
+      "rare_tool_state": 4
+    },
+    "Baseline_Rate": {
+      "extreme_high_choke": 0.0,
+      "high_temperature": 0.0,
+      "low_temperature": 0.0,
+      "negative_choke": 0.0,
+      "rare_tool_state": 0.8
+    },
+    "Sweetspot_Detected": {
+      "extreme_high_choke": 0,
+      "high_temperature": 0,
+      "low_temperature": 1,
+      "negative_choke": 0,
+      "rare_tool_state": 5
+    },
+    "Sweetspot_Rate": {
+      "extreme_high_choke": 0.0,
+      "high_temperature": 0.0,
+      "low_temperature": 0.25,
+      "negative_choke": 0.0,
+      "rare_tool_state": 1.0
+    },
+    "Avg_Score": {
+      "extreme_high_choke": 0.2759999930858612,
+      "high_temperature": 0.13300000131130219,
+      "low_temperature": 0.050999999046325684,
+      "negative_choke": 0.06199999898672104,
+      "rare_tool_state": -0.057999998331069946
+    }
+  },
+  "missed_characteristics": {
+    "Choke-Position": {
+      "count": 9.0,
+      "mean": 68.89478394944798,
+      "std": 54.44852705003822,
+      "min": -4.8985970263381695,
+      "25%": -1.9465423079843562,
+      "50%": 99.78561104967775,
+      "75%": 100.16832704201585,
+      "max": 119.54865280663194
+    },
+    "ToolStateNum": {
+      "count": 9.0,
+      "mean": 4.666666666666667,
+      "std": 4.0,
+      "min": 2.0,
+      "25%": 2.0,
+      "50%": 2.0,
+      "75%": 10.0,
+      "max": 10.0
+    },
+    "Downstream-Temperature": {
+      "count": 9.0,
+      "mean": 14.799583445814392,
+      "std": 5.222705398700262,
+      "min": 8.181216039088177,
+      "25%": 10.463404657559655,
+      "50%": 15.411517257656042,
+      "75%": 15.697061280768771,
+      "max": 25.941569882685602
+    },
+    "baseline_score": {
+      "count": 9.0,
+      "mean": 0.12025848031044006,
+      "std": 0.10691497474908829,
+      "min": 0.00905066728591919,
+      "25%": 0.013056397438049316,
+      "50%": 0.0885658860206604,
+      "75%": 0.19025558233261108,
+      "max": 0.2768315374851227
+    }
+  },
+  "recommendations": [
+    "Test contamination rates 1.5%, 2.5%, 3.0%",
+    "Consider ensemble methods",
+    "Add feature engineering",
+    "Test on larger datasets",
+    "Validate on real industrial data"
+  ]
+}

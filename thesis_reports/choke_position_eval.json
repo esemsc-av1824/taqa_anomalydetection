@@ -1,0 +1,8 @@
+{
+  "anomaly_rate_pct": 20.0,
+  "tp": 2,
+  "fp": 0,
+  "fn": 2,
+  "precision": 1.0,
+  "recall": 0.5
+}

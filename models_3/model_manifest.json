@@ -1,7 +1,8 @@
 {
-  "timestamp": "2025-08-04T13:28:23Z",
+  "timestamp": "2025-08-13T16:04:45Z",
   "files": {
-    "choke_position.onnx": "ee9816ced44a",
+    "choke_position.onnx": "c5267b2131ec",
+    "choke_position_baseline.onnx": "3956fb520980",
     "delta_temp_open.onnx": "d82ed17a7812",
     "full_vectors_if.onnx": "57a01941cbd9",
     "pressure_pair_open.onnx": "6782c4d5a086",
@@ -10,7 +11,6 @@
     "residual_downT.onnx": "c2aefa0e1a33",
     "residual_upP.onnx": "3eb474b9525a",
     "residual_upT.onnx": "ec34bb674ef2",
-    "target_pos_residual.onnx": "d13bdf837c72",
-    "residual_mad.json": "b5c22f101a6f"
+    "target_pos_residual.onnx": "d13bdf837c72"
   }
 }
