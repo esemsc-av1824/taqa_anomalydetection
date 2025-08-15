@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ashwinvel2000/TAQA/anomaly_detection_analysis/reports/mlruns/938869084261194028/7b9d1cf5140748c0b36b9eada15b83b7/artifacts
+end_time: 1755183918086
+entry_point_name: ''
+experiment_id: '938869084261194028'
+lifecycle_stage: active
+run_id: 7b9d1cf5140748c0b36b9eada15b83b7
+run_name: zealous-mouse-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755183865266
+status: 3
+tags: []
+user_id: ashwinvel2000

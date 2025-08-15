@@ -1,0 +1,36 @@
+{
+  "dataset_info": {
+    "size": 100,
+    "anomaly_count": 15,
+    "normal_count": 85,
+    "anomaly_rate_pct": 15.0
+  },
+  "baseline_model": {
+    "TP": 4,
+    "FP": 0,
+    "FN": 11,
+    "TN": 85,
+    "Precision": 1.0,
+    "Recall": 0.26666666666666666,
+    "F1": 0.4210526315789474,
+    "Accuracy": 0.89,
+    "Anomaly_Rate": 4.0
+  },
+  "sweetspot_model": {
+    "TP": 6,
+    "FP": 2,
+    "FN": 9,
+    "TN": 83,
+    "Precision": 0.75,
+    "Recall": 0.4,
+    "F1": 0.5217391304347827,
+    "Accuracy": 0.89,
+    "Anomaly_Rate": 8.0
+  },
+  "improvements": {
+    "recall_improvement": 0.13333333333333336,
+    "recall_improvement_pct": 50.0,
+    "f1_improvement": 0.1006864988558353,
+    "precision_change": -0.25
+  }
+}

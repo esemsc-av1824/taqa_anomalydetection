@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ashwinvel2000/TAQA/anomaly_detection_analysis/reports/mlruns/938869084261194028/02ab13d858a14edd975dde053e107514/artifacts
+end_time: 1755183865262
+entry_point_name: ''
+experiment_id: '938869084261194028'
+lifecycle_stage: active
+run_id: 02ab13d858a14edd975dde053e107514
+run_name: Optimization_Evaluation_20250814_160400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755183840745
+status: 3
+tags: []
+user_id: ashwinvel2000

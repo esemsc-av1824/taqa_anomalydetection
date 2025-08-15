@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ashwinvel2000/TAQA/anomaly_detection_analysis/reports/mlruns/938869084261194028/8925e58a490f4d648fceaf9a242e5077/artifacts
+end_time: 1755184981061
+entry_point_name: ''
+experiment_id: '938869084261194028'
+lifecycle_stage: active
+run_id: 8925e58a490f4d648fceaf9a242e5077
+run_name: amazing-hog-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755184971959
+status: 3
+tags: []
+user_id: ashwinvel2000

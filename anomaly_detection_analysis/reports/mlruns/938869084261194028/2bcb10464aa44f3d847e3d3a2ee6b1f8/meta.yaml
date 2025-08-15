@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ashwinvel2000/TAQA/anomaly_detection_analysis/reports/mlruns/938869084261194028/2bcb10464aa44f3d847e3d3a2ee6b1f8/artifacts
+end_time: 1755183840728
+entry_point_name: ''
+experiment_id: '938869084261194028'
+lifecycle_stage: active
+run_id: 2bcb10464aa44f3d847e3d3a2ee6b1f8
+run_name: bemused-horse-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755183778013
+status: 3
+tags: []
+user_id: ashwinvel2000
