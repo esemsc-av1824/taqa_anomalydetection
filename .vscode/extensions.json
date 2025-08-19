@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "GitHub.vscode-pull-request-github",
+    "eamodio.gitlens"
+  ],
+  "unwantedRecommendations": []
+}

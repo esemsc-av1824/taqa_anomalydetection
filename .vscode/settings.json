@@ -1,0 +1,9 @@
+{
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.suggestSmartCommit": false,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  }
+}

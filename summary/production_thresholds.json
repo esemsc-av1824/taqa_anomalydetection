@@ -1,0 +1,42 @@
+{
+  "deployment_date": "2025-08-19",
+  "thresholds": {
+    "delta_temp_open.onnx": {
+      "threshold": 0.2403,
+      "priority": "HIGH",
+      "expected_performance": {
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0
+      }
+    },
+    "full_vectors_if.onnx": {
+      "threshold": -0.029,
+      "priority": "HIGH",
+      "expected_performance": {
+        "f1": 0.914,
+        "precision": 0.985,
+        "recall": 0.853
+      }
+    },
+    "choke_position.onnx": {
+      "threshold": 0.0291,
+      "priority": "MEDIUM",
+      "expected_performance": {
+        "f1": 0.831,
+        "precision": 0.982,
+        "recall": 0.72
+      }
+    },
+    "pressure_pair_open.onnx": {
+      "threshold": -0.0265,
+      "priority": "LOW",
+      "expected_performance": {
+        "f1": 0.558,
+        "precision": 1.0,
+        "recall": 0.387
+      }
+    }
+  },
+  "notes": "Use decision scores (output[1]), not predictions (output[0])"
+}

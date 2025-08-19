@@ -1,0 +1,11 @@
+{
+  "model": "residual_battery.onnx",
+  "saved_cutoff": 0.2109777450561534,
+  "mad_train": 0.006087303161621094,
+  "mad_eval_normals": 0.010105151672362922,
+  "scale_ratio": 1.6600375246748587,
+  "best_threshold": 0.2244757157169512,
+  "best_precision": 0.9137931034482759,
+  "best_recall": 0.7066666666666667,
+  "best_f1": 0.7969924812030075
+}
